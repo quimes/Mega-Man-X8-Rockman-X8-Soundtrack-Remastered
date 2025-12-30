@@ -1,4 +1,5 @@
 [PT-BR]
+
 PARA A VERSÃO DE PC DE 2005:
 
 baixe o ogg.rar, extraia e coloque os arquivos .ogg dentro da pasta \ogg de Mega Man X8
@@ -14,6 +15,7 @@ se você só quiser ouvir a OST https://mega.nz/file/WURHnRyC#uftbsM02Q_aNXdhJ2Z
 (perdão se isso está feio mas eu não sei usar git)
 
 [EN]
+
 FOR THE 2005 PC RELEASE:
 
 download the ogg.rar, extract and put the .ogg files inside the \ogg folder of Mega Man X8
